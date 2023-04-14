@@ -1,0 +1,10 @@
+.product-title {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.product-price {
+    font-size: 1.1em;
+    font-weight: 500;
+}
